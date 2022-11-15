@@ -1,5 +1,5 @@
 x = 5  #  isort error
-y = 10  #  pylint space error  
+y = 10  #  pylint space error 
 temp = x
 x = y
 y = temp
